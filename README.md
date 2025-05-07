@@ -1,4 +1,4 @@
-# SkillUp
+# SkillUp by Team Rubiks Cube
 
 **SkillUp** is an innovative AI-powered career development platform designed to bridge the gap between fresh graduates’ skills and industry expectations. By integrating advanced AI technologies, SkillUp empowers graduates to become job-ready and streamlines the hiring process for employers.
 
@@ -103,6 +103,12 @@ SkillUp uses AI and data analytics to deliver scalable, adaptable career solutio
 - Pre-screened, job-ready candidates.
 - Lower hiring costs and reduced risk.
 - Data-backed insights into candidate readiness.
+
+### Screen Shots
+![UI 1](https://github.com/user-attachments/assets/43197c99-9328-4949-a1ec-deb8023deb69)
+![UI2](https://github.com/user-attachments/assets/567d7303-aa6b-42ed-88e6-e681d7056df2)
+![UI3](https://github.com/user-attachments/assets/4171a183-47a7-456b-bf83-782a56172ea9)
+
 
 ### Broader Impact
 
