@@ -90,6 +90,120 @@ SkillUp uses AI and data analytics to deliver scalable, adaptable career solutio
 
 ---
 
+## 🚀 Functional Requirements
+
+### 1. AI-Driven Skill Assessment & Personalized Learning Paths
+
+- **Skill Assessment Module**
+  - AI-powered evaluation of:
+    - Technical skills: Coding, data analysis
+    - Soft skills: Communication, teamwork
+  - Assessments via quizzes, coding challenges, and behavioral tests
+
+- **Learning Path Generator**
+  - Personalized course recommendations based on:
+    - Skill assessment results
+    - User-defined career goals
+  - Includes curated tutorials, MOOCs, and resources
+
+- **Micro-Projects**
+  - Industry-aligned projects (e.g., build a web app, analyze a dataset)
+  - Clear objectives, deadlines, and evaluation criteria
+
+- **Dynamic Updates**
+  - Integration with job market trends via APIs or scraping
+  - Real-time updates to learning modules and project suggestions
+
+---
+
+### 2. Smart Job Matching & Internship Portal
+
+- **Job Matching Algorithm**
+  - AI-driven matchmaking using:
+    - Skill assessment results
+    - User preferences and goals
+    - Job/internship listing data
+
+- **Portfolio Integration**
+  - Showcase completed micro-projects on user profiles
+  - Enable employers to view practical experience
+
+- **Employer Dashboard**
+  - Filter candidates by skills, view profiles, access portfolios
+  - Simplified evaluation process for recruiters
+
+- **Try-Before-Hire Model**
+  - Employers can assign tasks or short internships
+  - Evaluate real-world performance before full-time hiring
+
+---
+
+### 3. AI Resume & Career Tools
+
+- **Resume Scanner**
+  - Analyze resumes for structure, content, and keywords
+  - Provide actionable improvement suggestions
+
+- **ATS-Compatible Builder**
+  - Resume & cover letter generator
+  - Ensures compatibility with Applicant Tracking Systems
+
+- **Mock Interview Tool**
+  - AI-powered practice interviews
+  - Customizable questions, real-time feedback, and scoring
+
+- **Skill Gap Reports**
+  - AI-generated insights using tools like Gemini API
+  - Recommend resources to address specific weaknesses
+
+---
+
+### 4. Growth Analytics Dashboard
+
+- **Performance Tracking**
+  - Monitor skill development, resume quality, and interview outcomes
+
+- **Visual Analytics**
+  - Charts and graphs for:
+    - Skill improvement trends
+    - Application success rates
+
+- **Goal Setting**
+  - Users can define and track milestones
+  - Examples: Complete 3 projects, apply to 10 jobs
+
+---
+
+### 5. Company Recruitment Suite
+
+- **Job Board**
+  - Dedicated to entry-level and internship opportunities
+  - Employers can post, edit, and manage listings
+
+- **Candidate Filtering**
+  - AI-assisted filtering by skill match and project experience
+  - Ranking of top-fit candidates
+
+- **Interview Scheduling**
+  - Integrated tool for booking interviews
+  - Supports calendar syncing and time zone handling
+
+- **Analytics Suite**
+  - Employer access to candidate insights:
+    - Assessment scores
+    - Project performance
+    - Engagement metrics
+
+---
+
+## 📈 Target Users
+
+- **Students & Job Seekers**
+- **Recruiters & Employers**
+- **Career Counselors & Educators**
+
+
+
 ## 💡 Impact & Value
 
 ### For Graduates
